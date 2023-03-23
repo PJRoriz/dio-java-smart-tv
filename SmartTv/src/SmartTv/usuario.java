@@ -46,6 +46,7 @@ public class usuario {
 			System.out.println(smartTv.volume);
 		}
 		
+		smartTv.mudarCanal(82);
 		System.out.println();
 		System.out.println();
 		
